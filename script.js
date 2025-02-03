@@ -20,7 +20,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
     
     document.getElementById('messageContainer').style.display = 'block';
-    document.getElementById('messageContainer').innerHTML = 'tui hông ngờ tới luôn đó, iu bé lắm luônnn:3';
+    document.getElementById('messageContainer').innerHTML = 'anh hông ngờ tới luôn đó, iu bé lắm luônnn:3';
 
     
     setTimeout(function() {
@@ -67,7 +67,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         case 1:
             
 
-            document.getElementById('noBtn').innerHTML = 'tui hứa sẽ iuu bé suốt đời đó';
+            document.getElementById('noBtn').innerHTML = 'anh hứa sẽ iuu bé suốt đời đó';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
             document.getElementById('sadGifContainer').style.display = 'none';
             document.getElementById('sadGifContainer2').style.display = 'block';
@@ -140,7 +140,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
         case 7:
            
-            document.getElementById('noBtn').innerHTML = 'Thật sự tuii rất iu bé mà';
+            document.getElementById('noBtn').innerHTML = 'Thật sự anhh rất iu bé mà';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             
@@ -162,7 +162,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
 
         case 9:
            
-            document.getElementById('noBtn').innerHTML = 'Bé ơiii , cho Anh cơ hội diiii';
+            document.getElementById('noBtn').innerHTML = 'Bé ơiii , cho anh cơ hội diiii';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             
@@ -174,7 +174,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
 
         case 10:
            
-            document.getElementById('noBtn').innerHTML = 'hãy chấp nhận tình iuu của Anh nhóo';
+            document.getElementById('noBtn').innerHTML = 'hãy chấp nhận tình iuu của anh nhóo';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
          
